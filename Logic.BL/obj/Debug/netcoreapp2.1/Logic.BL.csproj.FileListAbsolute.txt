@@ -1,0 +1,9 @@
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Logic.BL\bin\Debug\netcoreapp2.1\Logic.BL.deps.json
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Logic.BL\bin\Debug\netcoreapp2.1\Logic.BL.dll
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Logic.BL\bin\Debug\netcoreapp2.1\Logic.BL.pdb
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Logic.BL\obj\Debug\netcoreapp2.1\Logic.BL.csprojResolveAssemblyReference.cache
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Logic.BL\obj\Debug\netcoreapp2.1\Logic.BL.csproj.CoreCompileInputs.cache
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Logic.BL\obj\Debug\netcoreapp2.1\Logic.BL.AssemblyInfoInputs.cache
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Logic.BL\obj\Debug\netcoreapp2.1\Logic.BL.AssemblyInfo.cs
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Logic.BL\obj\Debug\netcoreapp2.1\Logic.BL.dll
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Logic.BL\obj\Debug\netcoreapp2.1\Logic.BL.pdb

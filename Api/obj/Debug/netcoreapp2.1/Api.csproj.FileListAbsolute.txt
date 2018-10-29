@@ -1,0 +1,16 @@
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Api\bin\Debug\netcoreapp2.1\Api.dll
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Api\bin\Debug\netcoreapp2.1\Api.pdb
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Api\bin\Debug\netcoreapp2.1\Logic.BL.dll
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Api\bin\Debug\netcoreapp2.1\Logic.BL.pdb
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Api\obj\Debug\netcoreapp2.1\Api.csprojResolveAssemblyReference.cache
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Api\obj\Debug\netcoreapp2.1\Api.dll
+D:\DyCsw_Practica01-master\DyCsw_Practica01-master\Api\obj\Debug\netcoreapp2.1\Api.pdb
